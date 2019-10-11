@@ -54,7 +54,7 @@ class App extends Component {
         <Membre
           nom={family.membre3.nom}
           age={family.membre3.age} />
-        aaaaaaaaaaaaaaaaaaaaa
+
         <button
           onClick={this.handleClick}>Vieillir</button>
       </div>
